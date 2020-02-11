@@ -1,3 +1,3 @@
-# Bipolar Web and Desktop player
+# Reproductor web de biplar y escritorio
 
-A IECC Network proyect. (more info](http://ieccnetwork.tk))
+A Corcelins proyect. (more info](http://serversu.net))
